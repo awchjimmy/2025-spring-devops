@@ -1,6 +1,7 @@
 # DevOps
 
 ## 實作1 VPS 上面安裝 docker
+https://docs.docker.com/engine/install/ubuntu/
 
 ## 實作2 docker 運行 ollama
 ```sh
